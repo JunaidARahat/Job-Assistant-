@@ -1,0 +1,1 @@
+Junaid Ali\nExperienced Python developer with 1 years of experience. Worked with Django, FastAPI, Docker, and AWS. Familiar with CI/CD pipelines.\n

@@ -1,0 +1,17 @@
+# Placeholder for requirements.txt
+fastapi
+uvicorn[standard]
+pydantic
+beautifulsoup4
+pytest
+pytest-cov
+pyyaml
+python-multipart
+pyPDF2
+numpy
+# Optional but recommended for better embeddings / vector store
+sentence-transformers
+faiss-cpu
+
+langchain
+openai
